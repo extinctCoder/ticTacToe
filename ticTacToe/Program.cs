@@ -10,6 +10,7 @@ namespace ticTacToe
     {
         static void Main(string[] args)
         {
+            BoardDriver.run();
         }
     }
 }
